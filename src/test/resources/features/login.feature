@@ -6,5 +6,3 @@ Scenario:User User should be Able to Sign In Successfully
 	And user enters the password
 	And clicks on the Sign in button
     Then user should be redirected to accounts page
-      
-        

@@ -1,4 +1,4 @@
-package stepdefinations;
+package stepdefinitions;
 
 import factory.DriverFactory;
 import io.cucumber.java.After;
